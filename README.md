@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on software for expediting the automotive total loss process. 
-📫 How to reach me: steven.mahoney@lossexpress.com
+- 🔭 I’m currently working on software for expediting the automotive total loss process. 
+- 📫 How to reach me: steven.mahoney@lossexpress.com
 
 <!--
 **sman2600/sman2600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
