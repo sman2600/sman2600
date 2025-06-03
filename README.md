@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on software for expediting the automotive total loss process. 
+- 🔭 I’m currently working on restaurant reservation & management software. 
 - 📫 How to reach me: mahoney.sa26@gmail.com
 
 <!--
